@@ -1,4 +1,4 @@
-#Dribble Recreation 🎨:
+# Dribble Recreation 🎨:
 A recreation of Dribbble's design with my personal touches, built using HTML, CSS, and JavaScript, with a sprinkle of GSAP for animations.
 
 ## 🚀 Project Overview:
